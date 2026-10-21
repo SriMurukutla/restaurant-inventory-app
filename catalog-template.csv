@@ -1,0 +1,5 @@
+sku,name,unit,category,target,suppliers,primary
+DRY-001,All purpose flour,lb,Dry goods,100,Restaurant Depot|Costco,Restaurant Depot
+DAIRY-001,Whole milk,gallon,Dairy,12,Sam's|Costco,Sam's
+PROD-001,Tomatoes,lb,Produce,30,Browns|Produce,Browns
+PACK-001,Takeout container,each,Packaging,500,Online|Third-party,Online
